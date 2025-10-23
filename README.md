@@ -47,7 +47,7 @@ This allows the bank to adjust loan pricing, approval, or credit limits.
 
 Step 7: Monitoring & Updating
 PD models degrade over time due to economic changes or new borrower behavior.
-Regularly update with new data to maintain predictive accuracy.   changes need to be made 
+Regularly update with new data to maintain predictive accuracy.   changes need to be made .
 
 3. Logical Flow Summary
 Input borrower and loan data → 2. Feature engineering & risk indicators → 3. Train probabilistic classifier → 4. Output PD score → 5. Calibrate & segment into risk tiers → 6. Use for lending decisions & monitoring
