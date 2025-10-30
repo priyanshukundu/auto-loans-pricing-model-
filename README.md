@@ -16,7 +16,7 @@ Categorical Features: Encode features like home_ownership, loan_intent, loan_gra
 Derived Features: Create new risk indicators, e.g.:
 loan_amnt / person_income → debt burden ratio.
 emp_length / age → stability index.
-Purpose: Transform raw data into meaningful inputs that reflect risk.
+Purpose: Transform raw data into meaningful inputs that reflect risk
 
 Step 3: Model Selection
 The goal is probabilistic prediction, so logistic regression is often the baseline because it naturally outputs probabilities.
