@@ -53,4 +53,4 @@ Regularly update with new data to maintain predictive accuracy.   changes need t
 Input borrower and loan data → 2. Feature engineering & risk indicators → 3. Train probabilistic classifier → 4. Output PD score → 5. Calibrate & segment into risk tiers → 6. Use for lending decisions & monitoring
 
 💡 Key Intuition:
-A PD model does not just classify “default” vs. “no default” — it estimates how likely a borrower is to default. This probability guides risk-adjusted decisions like interest rates or loan approvals
+A PD model does not just classify “default” vs. “no default” — it estimates how likely a borrower is to default. This probability guides risk-adjusted decisions like interest rates or loan approvals.
